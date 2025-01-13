@@ -1,0 +1,11 @@
+# dataset path
+path: D:/PythonProjects/wulei/RTDETR-main/dataset/mydata/
+train: images/train
+val: images/val
+test: images/val
+
+# number of classes
+nc: 6
+
+# class names
+names: ['iron sheet', 'rock bolt', 'coal gangue', 'angle iron', 'bolt', 'nut']
